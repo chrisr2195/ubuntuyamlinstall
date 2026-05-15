@@ -176,11 +176,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 💛 Support
-
-If you find this tool useful, consider supporting the project:
-
-👉 **[Support this project - Visit this Ad-Link](https://onandasmilee.com?j4PmO=1248945)**
 
 ---
 
